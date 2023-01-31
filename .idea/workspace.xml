@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6feec41-54f3-4883-b6a8-c3f16c4a3259" name="Changes" comment="Python Practice with Angela">
+    <list default="true" id="b6feec41-54f3-4883-b6a8-c3f16c4a3259" name="Changes" comment="Ascii Art">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rogineee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rogineee.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <updated>1675095562718</updated>
       <workItem from="1675095564034" duration="832000" />
       <workItem from="1675096433117" duration="1081000" />
-      <workItem from="1675149673990" duration="1694000" />
+      <workItem from="1675149673990" duration="6611000" />
     </task>
     <task id="LOCAL-00001" summary="Added Hello World">
       <created>1675095628274</created>
@@ -96,11 +97,43 @@
       <option name="project" value="LOCAL" />
       <updated>1675096729358</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ascii Art">
+      <created>1675151784731</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675151784731</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ascii Art">
+      <created>1675152665961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675152665961</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ascii Art">
+      <created>1675152691896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675152691896</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Hello World" />
@@ -109,9 +142,10 @@
     <MESSAGE value="Python Challenges Angelaa" />
     <MESSAGE value="Yohoo" />
     <MESSAGE value="Python Practice with Angela" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Practice with Angela" />
+    <MESSAGE value="Ascii Art" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ascii Art" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Practise$Rogineee.coverage" NAME="Rogineee Coverage Results" MODIFIED="1675151740173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practise$Rogineee.coverage" NAME="Rogineee Coverage Results" MODIFIED="1675160309334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

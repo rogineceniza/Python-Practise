@@ -218,3 +218,20 @@
 # _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 # "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
 # ''')
+
+import random
+
+myRandom = random.random() # 0.10000 - 0.90000
+print(myRandom)
+
+myRandomInt = random.randint(0, 10) # from 0 - 10
+print(myRandomInt)
+
+myRandomFloat = random.random() * 5 # from 0.1000 - 5.000
+rounded = round(myRandomFloat, 2)
+print(rounded)
+
+score = random.randint(1,100)
+print(f"Your calculus score is {score}")
+
+
