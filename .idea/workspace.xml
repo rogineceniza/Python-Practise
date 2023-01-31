@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6feec41-54f3-4883-b6a8-c3f16c4a3259" name="Changes" comment="Python Practice with Angela">
+      <change beforePath="$PROJECT_DIR$/Rogineee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rogineee.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L3Mxw0cBqYhKPdjOpXIGqqVFnA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Python-Practise/Ascii Rain.gif",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver.localdb"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6feec41-54f3-4883-b6a8-c3f16c4a3259" name="Changes" comment="" />
+      <created>1675095562718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675095562718</updated>
+      <workItem from="1675095564034" duration="832000" />
+      <workItem from="1675096433117" duration="1081000" />
+      <workItem from="1675149673990" duration="1694000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Hello World">
+      <created>1675095628274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675095628274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Input">
+      <created>1675096028240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675096028240</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python Challenges Angela">
+      <created>1675096461587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675096461587</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Python Challenges Angelaa">
+      <created>1675096529174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675096529174</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Yohoo">
+      <created>1675096607266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675096607266</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Python Practice with Angela">
+      <created>1675096729358</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675096729358</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Hello World" />
+    <MESSAGE value="Added Input" />
+    <MESSAGE value="Python Challenges Angela" />
+    <MESSAGE value="Python Challenges Angelaa" />
+    <MESSAGE value="Yohoo" />
+    <MESSAGE value="Python Practice with Angela" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Practice with Angela" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Practise$Rogineee.coverage" NAME="Rogineee Coverage Results" MODIFIED="1675151740173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
