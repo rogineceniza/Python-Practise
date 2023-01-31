@@ -208,6 +208,13 @@
 #     print(f"Your score is {score}. Ummm...okay, maybe you guys aren't meant to be together. Cheers!")
 # else:
 #     print(f"WHOAHH!!! You just won the love lottery. Your score is {score}. CONGRATULATIONS!!!")
-#
-#
-#
+
+# #Ascii Art
+# print('''
+#    ___             __ _     _
+#   | _ \    ___    / _` |   (_)    _ _      ___
+#   |   /   / _ \   \__, |   | |   | ' \    / -_)
+#   |_|_\   \___/   |___/   _|_|_  |_||_|   \___|
+# _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+# "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+# ''')
