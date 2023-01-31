@@ -231,7 +231,7 @@ myRandomFloat = random.random() * 5 # from 0.1000 - 5.000
 rounded = round(myRandomFloat, 2)
 print(rounded)
 
-score = random.randint(1,100)
+score = random.randint(1,100) # random number from 1 - 100
 print(f"Your calculus score is {score}")
 
 
