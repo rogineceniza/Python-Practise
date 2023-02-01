@@ -332,5 +332,17 @@
 # else:
 #     print("See ya!")
 #
-#
 
+# import random
+# mylist = ["apple", "banana", "cherry"]
+# print(random.choice(mylist))
+
+import random
+listOfNames = ["Haloo", "Marshmallow", "Swahilii Loga Moja Hitoshi"]
+print(random.choice(listOfNames))
+
+listOfNames.append("Rogine")
+print(listOfNames)
+
+listOfNames.sort()
+print(listOfNames)

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6feec41-54f3-4883-b6a8-c3f16c4a3259" name="Changes" comment="Import Random">
+    <list default="true" id="b6feec41-54f3-4883-b6a8-c3f16c4a3259" name="Changes" comment="Added Keyboard Package (use import keyboard)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rogineee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rogineee.py" afterDir="false" />
     </list>
@@ -12,6 +12,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -54,7 +61,7 @@
       <workItem from="1675095564034" duration="832000" />
       <workItem from="1675096433117" duration="1081000" />
       <workItem from="1675149673990" duration="7878000" />
-      <workItem from="1675234326224" duration="3692000" />
+      <workItem from="1675234326224" duration="9749000" />
     </task>
     <task id="LOCAL-00001" summary="Added Hello World">
       <created>1675095628274</created>
@@ -133,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675161618074</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Rock Paper Scissors">
+      <created>1675238496571</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675238496571</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Keyboard Package (use import keyboard)">
+      <created>1675244717706</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675244717706</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,9 +180,11 @@
     <MESSAGE value="Python Practice with Angela" />
     <MESSAGE value="Ascii Art" />
     <MESSAGE value="Import Random" />
-    <option name="LAST_COMMIT_MESSAGE" value="Import Random" />
+    <MESSAGE value="Rock Paper Scissors" />
+    <MESSAGE value="Added Keyboard Package (use import keyboard)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Keyboard Package (use import keyboard)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Practise$Rogineee.coverage" NAME="Rogineee Coverage Results" MODIFIED="1675238153162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practise$Rogineee.coverage" NAME="Rogineee Coverage Results" MODIFIED="1675245601131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
