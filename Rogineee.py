@@ -337,6 +337,7 @@
 # mylist = ["apple", "banana", "cherry"]
 # print(random.choice(mylist))
 
+from opcode import hasjabs
 import random
 listOfNames = ["Haloo", "Marshmallow", "Swahilii Loga Moja Hitoshi"]
 print(random.choice(listOfNames))
