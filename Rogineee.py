@@ -316,6 +316,21 @@
 # print("Rock-Paper-Scissors Game")
 # game()
 
-
-
+#
+# #HEADS OR TAILS
+# import random
+# print("Heads or Tails Game")
+#
+# yesNo = str(input("Wanna play? y/n: "))
+# while yesNo == 'y' or yesNo == 'Y':
+#     toss = input("Press 1 to toss: ")
+#     random_toss = random.randint(1, 2)
+#     if random_toss == 1:
+#         print("Heads")
+#     else:
+#         print("Tails")
+# else:
+#     print("See ya!")
+#
+#
 
