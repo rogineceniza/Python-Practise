@@ -219,19 +219,103 @@
 # "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
 # ''')
 
-import random
+# import random
+#
+# myRandom = random.random() # 0.10000 - 0.90000
+# print(myRandom)
+#
+# myRandomInt = random.randint(0, 10) # from 0 - 10
+# print(myRandomInt)
+#
+# myRandomFloat = random.random() * 5 # from 0.1000 - 5.000
+# rounded = round(myRandomFloat, 2)
+# print(rounded)
+#
+# score = random.randint(1,100) # random number from 1 - 100
+# print(f"Your calculus score is {score}")
 
-myRandom = random.random() # 0.10000 - 0.90000
-print(myRandom)
 
-myRandomInt = random.randint(0, 10) # from 0 - 10
-print(myRandomInt)
+#ROCK PAPER SCISSORS (RPS)
+# import random
+# print("Welcome to Rock, paper, scissors game!")
+# print("Pick a number that corresponds to your choosing.")
+#
+# count = 0
+# while count < 10:
+#
+#     you_pick = int(input("\n1: Rock\n2: Paper\n3: Scissors\nYou picked: "))
+#     computer_pick = random.randint(1, 3)
+#
+#     count_your_wins = 0
+#     count_computer_wins = 0
+#
+#     if you_pick == 1 and computer_pick == 1:
+#         print("It's a Draw!")
+#     elif you_pick == 1 and computer_pick == 2:
+#         print("Computer Wins!")
+#         count_computer_wins += 1
+#     elif you_pick == 1 and computer_pick == 3:
+#         print("You Won!")
+#         count_your_wins += 1
+#     elif you_pick == 2 and computer_pick == 1:
+#         print("You Won!")
+#         count_your_wins += 1
+#     elif you_pick == 2 and computer_pick == 2:
+#         print("It's a Draw!")
+#     elif you_pick == 2 and computer_pick == 3:
+#         print("Computer Wins!")
+#         count_computer_wins += 1
+#     elif you_pick == 3 and computer_pick == 1:
+#         print("Computer Wins!")
+#         count_computer_wins += 1
+#     elif you_pick == 3 and computer_pick == 2:
+#         print("You Won!")
+#         count_your_wins += 1
+#     elif you_pick == 3 and computer_pick == 3:
+#         print("It's a Draw!")
+#     else:
+#         print("Input not recognized.")
+#     print(f"Your score: {count_your_wins}\nComputer score: {count_computer_wins}")
 
-myRandomFloat = random.random() * 5 # from 0.1000 - 5.000
-rounded = round(myRandomFloat, 2)
-print(rounded)
+#Another version of RPS
+# def game():
+#     print("Enter choice \n 1 for Rock \n 2 for paper \n 3 for scissor")
+#     choice = int(input("User turn: "))
+#
+#     while choice > 3 or choice < 1:
+#         choice = int(input("Enter valid input: "))
+#     if choice == 1:
+#         choice_name = 'rock'
+#     elif choice == 2:
+#         choice_name = 'paper'
+#     else:
+#         choice_name = 'scissors'
+#     print("user choice is: " + choice_name)
+#
+#     print("\nNow its computer turn.......")
+#     import random
+#     comp_choice = random.randint(1, 3)
+#     if comp_choice == 1:
+#         comp_choice_name = 'rock'
+#     elif comp_choice == 2:
+#         comp_choice_name = 'paper'
+#     else:
+#         comp_choice_name = 'scissors'
+#     print("Computer choice is: " + comp_choice_name)
+#     print(choice_name + " V/s " + comp_choice_name)
+#
+#     result = (choice - comp_choice + 3) % 3
+#     if result == 0:
+#         print("Tie")
+#     elif result == 1:
+#         print("Sorry, computer won")
+#     else:
+#         print("Congratulation! You won")
+#     print("\n")
+#
+# print("Rock-Paper-Scissors Game")
+# game()
 
-score = random.randint(1,100) # random number from 1 - 100
-print(f"Your calculus score is {score}")
+
 
 
